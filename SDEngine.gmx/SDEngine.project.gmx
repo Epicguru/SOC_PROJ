@@ -382,11 +382,13 @@
       <sprite>sprites\bbgTrippyCGA2</sprite>
       <sprite>sprites\bbgHacker</sprite>
     </sprites>
+    <sprite>sprites\OverworkUpperSprite</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Tilesets">
       <background>background\background1</background>
       <background>background\tileVenusInteriors</background>
+      <background>background\background2</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths">
@@ -817,6 +819,7 @@
       <object>objects\objStairs</object>
       <object>objects\objStairs2</object>
     </objects>
+    <object>objects\Overworld_Upper</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rmInit</room>
