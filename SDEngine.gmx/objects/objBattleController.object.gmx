@@ -738,7 +738,7 @@ if !in_battle and ok and !(global.dead[_turn] or global.s_asleep[_turn] or globa
             <string>///Button labels
 // Bash
 if !no_bash[_turn] {
-    label_bash[1] = "0 Clean";
+    label_bash[1] = "0 Ethnic Clensing";
     label_bash[2] = "1 Bash";
     label_bash[3] = "2 Shoot";
     label_bash[4] = "1 Bash";

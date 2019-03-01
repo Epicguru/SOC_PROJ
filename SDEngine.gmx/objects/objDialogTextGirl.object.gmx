@@ -28,6 +28,8 @@
             <string>    direction = 270
     image_speed = 0
     answer = 0
+    move = false
+    timer = 0
 </string>
           </argument>
         </arguments>
@@ -250,6 +252,14 @@ else {
           <argument>
             <kind>1</kind>
             <string>npc_sprite_handle_stationary();
+collision_handle();
+
+timer += 1
+if(move and timer &gt; 20){
+    random_npc_movt(2);
+    timer = 0
+}
+    
 </string>
           </argument>
         </arguments>

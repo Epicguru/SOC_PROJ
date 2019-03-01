@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>_x = x
 _y = y
-_room = rmInit
+_room = rmMenu
 soundOpen = snddooropen
 soundClose = snddoorclose
 closed = 0

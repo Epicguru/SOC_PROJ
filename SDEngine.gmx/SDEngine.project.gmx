@@ -389,6 +389,7 @@
       <background>background\background1</background>
       <background>background\tileVenusInteriors</background>
       <background>background\background2</background>
+      <background>background\dickRoomBG</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths">
@@ -830,6 +831,7 @@
     <room>rooms\BigBoyMap</room>
     <room>rooms\rmExample</room>
     <room>rooms\rmTemplate</room>
+    <room>rooms\rmDick</room>
     <room>rooms\rmBattle</room>
     <room>rooms\rmNaming</room>
     <room>rooms\rmGameOver</room>
