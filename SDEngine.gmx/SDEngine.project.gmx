@@ -331,6 +331,10 @@
     <sprites name="Battle">
       <sprites name="Enemies">
         <sprite>sprites\sprPlaceholderEnemy</sprite>
+        <sprite>sprites\Batsir</sprite>
+        <sprite>sprites\BatMafiaMan</sprite>
+        <sprite>sprites\BatLady</sprite>
+        <sprite>sprites\BatAnt</sprite>
         <sprite>sprites\sprDumbEnemy</sprite>
       </sprites>
       <sprites name="PSI">
@@ -387,6 +391,8 @@
   <backgrounds name="background">
     <backgrounds name="Tilesets">
       <background>background\background1</background>
+      <background>background\Hospital2</background>
+      <background>background\Hospital1</background>
       <background>background\tileVenusInteriors</background>
       <background>background\background2</background>
       <background>background\dickRoomBG</background>
@@ -831,6 +837,8 @@
     <room>rooms\BigBoyMap</room>
     <room>rooms\rmExample</room>
     <room>rooms\rmTemplate</room>
+    <room>rooms\rmHospitaG</room>
+    <room>rooms\rmHospital2</room>
     <room>rooms\rmDick</room>
     <room>rooms\rmBattle</room>
     <room>rooms\rmNaming</room>

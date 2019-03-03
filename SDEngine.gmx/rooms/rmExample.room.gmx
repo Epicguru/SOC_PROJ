@@ -14,7 +14,7 @@
 global.thex = 208
 global.they = 144
 play_music(bgmNull, 1)</code>
-  <enableViews>-1</enableViews>
+  <enableViews>0</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
